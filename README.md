@@ -2,7 +2,7 @@
 
 A collection of scripts to instantiate [swarms](https://github.com/kyegomez/swarms) agents to debug and deploy.  
 
-Check bask as this repository grows with more samples.  
+Check back as this repository grows with more samples.  
 
 > [!NOTE]
 > These scripts are for educational purposes only, be careful with runaway token usage and adjust your environment as necessary.
