@@ -1,6 +1,6 @@
 # ✨ 🐸 FrogSwarms 🐸 ✨ 
 
-A collection of scripts to instantiate [swarms](https://github.com/kyegomez/swarms) agents to debug and deploy.  
+A collection of scripts for instantiating [swarms](https://github.com/kyegomez/swarms) agents to debug and deploy.  
 
 Check back as this repository grows with more samples.  
 
