@@ -15,5 +15,7 @@ Check bask as this repository grows with sample scripts.
 In addition, the [commodities broker](scripts/commodities_broker.py) is available.  
 </details>
 
+> [!CAUTION]
+> The reports generated are large, verbose, and require further refining. An output folder will be available for samples once a method for formatting the output into user friendly format is available.
 
 ![Frog Swarms](media/frogswarms.webp)
