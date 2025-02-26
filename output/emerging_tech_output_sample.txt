@@ -1,3 +1,4 @@
+output from creative_rennaissance_agent.py:
 ╭────────────────────────────────────────────────────────────────────────────────── Agent Name Research-Agent-0 [Max Loops: 1 ] ──────────────────────────────────────────────────────────────────────────────────╮
 │ Research-Agent-0: To analyze the top five emerging technologies in 2025 and their global impact, we need to consider current trends, research, and expert predictions. Here are the technologies that are       │
 │ expected to have a significant impact by 2025:                                                                                                                                                                  │
