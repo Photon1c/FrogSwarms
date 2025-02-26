@@ -1,5 +1,5 @@
 # TroupeSwarms: A TinyTroupe / Swarms Integration
 
-Check back for more!
+Check back later for updates to this repository!
 
 ![TroupeSwarms](../media/troupeswarms.webp)
