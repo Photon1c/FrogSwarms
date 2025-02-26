@@ -10,7 +10,9 @@ Check back as this repository grows with more samples.
 <details>
 <summary>Updates</summary>
 
-2.23.2025 The [super researcher](scripts/super_researcher.py) script is now available. It serves as a starting test script for future swarms deployments.   
+- 2.25.2025 The [creative rennaissance agent](scripts/creative_rennaissance_agent.py) script is now available. The prompt is simple but produces 3 agents that provide citations for their research, adjust as needed.  
+
+- 2.23.2025 The [super researcher](scripts/super_researcher.py) script is now available. It serves as a starting test script for future swarms deployments.   
 
 In addition, the [commodities broker](scripts/commodities_broker.py) is available.  
 </details>
