@@ -2,4 +2,4 @@
 
 Check back for more!
 
-![TroupeSwarms](troupeswarms.webp)
+![TroupeSwarms](../media/troupeswarms.webp)
