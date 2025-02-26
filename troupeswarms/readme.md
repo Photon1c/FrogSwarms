@@ -2,6 +2,8 @@
 
 Check back later for updates to this repository!  
 
+Current challenges: Pipelining dictionaries from OpenAI to TinyTroupe, extracting relevant message data from agents (massively verbose at the moment), and prompt stabilizing unique agent sessions in swarms.  
+
 The current outlined workflow of this subproject:
 
 ```mermaid
